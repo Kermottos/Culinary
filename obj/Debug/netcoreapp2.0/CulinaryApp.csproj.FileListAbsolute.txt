@@ -1,0 +1,11 @@
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\bin\Debug\netcoreapp2.0\CulinaryApp.deps.json
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\bin\Debug\netcoreapp2.0\CulinaryApp.runtimeconfig.json
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\bin\Debug\netcoreapp2.0\CulinaryApp.runtimeconfig.dev.json
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\bin\Debug\netcoreapp2.0\CulinaryApp.dll
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.csprojAssemblyReference.cache
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.csproj.CoreCompileInputs.cache
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.AssemblyInfoInputs.cache
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.AssemblyInfo.cs
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\bin\Debug\netcoreapp2.0\CulinaryApp.pdb
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.dll
+c:\users\kermo\source\repos\CulinaryApp\CulinaryApp\obj\Debug\netcoreapp2.0\CulinaryApp.pdb
